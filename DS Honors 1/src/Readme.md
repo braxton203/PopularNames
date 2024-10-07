@@ -1,0 +1,11 @@
+To run these program complete the following steps.
+- Download all files into the same folder or project
+- Copy the file path of any of the babynamesranking txt files
+- Navigate to the specified line in each of the code files
+- - Task1 (line 84)
+- - Task2 (line 42)
+- - Task3 (line 86)
+- - Task4 (line 83)
+- Paste the file path into the specifically marked 1st set of quotes and delete the year and .txt from the path (Example for deleting: "2003.txt")
+- There is an example of what it should look like above each line
+- If there are any questions please contact me on canvas or at braconle@iu.edu
